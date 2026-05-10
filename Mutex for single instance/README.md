@@ -9,7 +9,7 @@ instances of a Windows application using a "NAMED MUTEX".
 - Mutex
 - Windows Kernel Objects
 
-## Concepts Learned
+## Concepts used
 - CreateMutex
 - ERROR_ALREADY_EXISTS
 - Handle Management
